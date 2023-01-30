@@ -23,7 +23,7 @@ let timer = function (startTime) {
     clearInterval(timerId);
     
     // do anything you want to.
-    $(".msg").text("time up!");
+    $(".msg").text("TIMES UP!");
   } 
 }
 

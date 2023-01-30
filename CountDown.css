@@ -4,7 +4,6 @@
     border: 1px dashed blue;
     height: 16px;
     width: 250px;
-
   }
 
   .text {
@@ -20,7 +19,7 @@
     left: 0;
     top: 0;
     height: 16px;
-    background-color: green;
+    background-color: rgb(141, 236, 141);
 }
 
   .msg {
