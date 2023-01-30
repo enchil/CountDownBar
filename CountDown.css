@@ -1,0 +1,33 @@
+.progessbar {
+    position: relative;
+    text-align: center;
+    border: 1px dashed blue;
+    height: 16px;
+    width: 250px;
+
+  }
+
+  .text {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    line-height: 16px;
+    z-index: 10;
+}
+  .bar {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 16px;
+    background-color: green;
+}
+
+  .msg {
+    position: absolute;
+    color: red;
+    left: 0;
+    top: 0;
+    width: 100%;
+    line-height: 16px;
+}
